@@ -100,7 +100,7 @@ li a {
 }
 
 footer {
-  background-color: #75e2e6; /* Light blue background */
+  background-color: #75e2e6; 
   text-align: center;
   padding: 20px;
   margin-top: 50px;
@@ -119,6 +119,6 @@ footer p {
 }
 
 .social-icons img {
-  width: 30px; /* Adjust size of icons */
+  width: 30px;
   height: 30px;
 }
